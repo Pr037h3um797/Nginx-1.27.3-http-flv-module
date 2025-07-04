@@ -16,7 +16,7 @@ Nginx-1.27.3-HTTP-FLV-Module (Windows 10)
 
     zlib 1.3.1
 
-目前我暂不提供源码，主要是考虑到可能不会有太多人使用。该服务器的核心功能由 Nginx 和 nginx-http-flv-module 模块构建。此外，它还包含了一些用于操作便利的中文批处理脚本。
+目前我暂不提供源码，主要是懒。该服务器的核心功能由 Nginx 和 nginx-http-flv-module 模块构建。此外，它还包含了一些用于操作便利的中文批处理脚本。
 
 功能特性
 
