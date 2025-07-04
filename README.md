@@ -13,6 +13,8 @@
 
 这个服务器基本上没有任何安全措施！
 
+所有的web设计、技术支持，由Deepseek、Gemini、博客园、某吃相很难看的CSDN给出...
+
 —————————————————————
 
 This is my nginx rtmp/http-flv live server
@@ -30,3 +32,5 @@ It has three built-in web interfaces: a simple playback page, a more complex tes
 I use Sakura FRPC to address public network live streaming issues. The Nginx configuration file includes a local proxy to resolve browser mixed content warnings: external requests are HTTPS, the internal proxy uses HTTP, and the browser only perceives the HTTPS connection.
 
 This server fundamentally lacks any security measures!"
+
+All web design and technical support are provided by Deepseek, Gemini, Cnblogs, and a certain CSDN with a rather unappealing reputation.
